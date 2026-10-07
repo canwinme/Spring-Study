@@ -1,0 +1,19 @@
+# Eclipse / STS
+.metadata/
+.settings/
+.classpath
+.project
+.springBeans
+.sts4-cache/
+
+# Maven / build
+target/
+build/
+*.class
+
+# Server configuration
+Servers/
+
+# OS
+.DS_Store
+Thumbs.db
